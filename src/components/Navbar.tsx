@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0 flex items-center">
             <span className="font-virgil text-xl font-bold text-text-light dark:text-text-dark transition-colors duration-300">
-              Sandy's Blogs
+              Sandy&apos;s Blogs
             </span>
           </div>
           <div className="flex items-center">

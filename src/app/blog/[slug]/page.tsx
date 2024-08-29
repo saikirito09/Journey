@@ -1,9 +1,7 @@
-// src/app/blog/[slug]/page.tsx
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-// This would typically come from a database or API
 const blogPosts = [
   {
     slug: "revolutionary-ai-breakthrough-quantum-computing",
