@@ -3,11 +3,11 @@ import Link from "next/link";
 
 const blogPosts = [
   {
-    slug: "revolutionary-ai-breakthrough-quantum-computing",
-    title: "Revolutionary AI Breakthrough in Quantum Computing",
+    slug: "pruning-and-sparsity-in-neural-networks",
+    title: "Pruning and Sparsity in Neural Networks",
     snippet:
-      "Scientists have made a groundbreaking discovery in the field of quantum computing, leveraging artificial intelligence to solve complex quantum algorithms.",
-    image: "/tech-news-image.jpg",
+      "Explore how pruning and sparsity techniques can make neural networks more efficient for edge computing and mobile devices...",
+    image: "/images/pruning_light.png",
   },
   {
     slug: "rise-of-edge-computing",
